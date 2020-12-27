@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+canvas#defaultCanvas0 {
+  position: relative;
+  left: 65%;
+  top: 60%;
+  transform: translate(-45%,-40%);
+}
+
+.details{
+  position: relative;
+  top: 65%;
+  left: 2%;
+  text-align: center;
+}
+.details h1{
+  color: tomato;
+}
+.details h4{
+
+}
+.details p{
+  font-size: 20px;
+  color: #222222;
+  text-align: center;
+  font-weight: 500;
+}
